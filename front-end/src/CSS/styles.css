@@ -1,0 +1,13 @@
+
+.display_inline{
+    display:flex;
+}
+.coloring p {
+    color: white;
+} 
+.coloring h1 {
+    color: white;
+}
+.coloring{
+    color: white !important;
+}
