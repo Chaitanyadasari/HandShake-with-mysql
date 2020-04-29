@@ -1,4 +1,4 @@
-# PET PROJECT 1
+# HAND SHAKE 1
   React - NOde - MYSQL- AWS application 
 
 
