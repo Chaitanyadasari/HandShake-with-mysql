@@ -1,5 +1,5 @@
-# Lab1
-273Lab1
+# PET PROJECT 1
+  React - NOde - MYSQL- AWS application 
 
 
 HandShake :
