@@ -1,5 +1,5 @@
-# HAND SHAKE 1
-  React - NOde - MYSQL- AWS application 
+# HANDSHAKE Web Application 
+React - Node - MYSQL- AWS application 
 
 
 HandShake :
